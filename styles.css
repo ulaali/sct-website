@@ -1,8 +1,4 @@
-body{
-    padding: 0px;
-    margin: 0px;
-    box-sizing: border-box;
-}
+
 .nav-pills a{
    color: black;
 }
@@ -29,4 +25,20 @@ header{
 .cardd img{
     width: 350px;
     height: 250px;
+    border-radius: 5px;
 }
+h1,p{
+   text-align: center;
+}
+.card{
+    margin-left: 55px;
+    margin-top: 20px;
+}
+.form-group{
+    margin: 20px;
+}
+.w-100 {
+    width: 100% !important;
+    height: 95vh;
+  }
+  
